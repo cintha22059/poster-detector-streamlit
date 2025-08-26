@@ -1,6 +1,5 @@
-tensorflow
-streamlit
-numpy
 matplotlib
-Pillow
-MobileNetV2
+numpy
+pillow
+scikit-learn
+tensorflow
